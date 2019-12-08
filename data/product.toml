@@ -1,0 +1,6 @@
+[[products]]
+name="Kagura"
+color="#FFFFFF"
+bgcolor="#D3381C"
+icon="/img/kagura.png"
+description=["Rust製Webフロントエンドフレームワーク"]

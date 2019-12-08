@@ -1,0 +1,12 @@
+[[contents]]
+name="クトゥルフ神話"
+tag="coc6"
+
+[[contents.scenarios]]
+name="サンプルシナリオ"
+introduction="データリードのサンプル"
+location="some_scenario"
+
+[[contents]]
+name="ソードワールド2.5"
+tag="sw25"
