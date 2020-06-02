@@ -1,6 +1,19 @@
 [[products]]
-name="Kagura"
-color="#FFFFFF"
-bgcolor="#D3381C"
-icon="/img/kagura.png"
-description=["Rust製Webフロントエンドフレームワーク"]
+name = "Kagura"
+color = "#FFFFFF"
+bgcolor = "#D3381C"
+icon = "/img/kagura.png"
+link = {alt = "github repository", url = "https://github.com/SoundRabbit/Kagura"}
+[products.description]
+heading = "Rust製Webフロントエンドフレームワーク"
+paragraph = ["wasm-bindgenおよびweb-sysを使用することで、Rustで記述可能なWebフロントエンドフレームワークです。", "詳細は「技術情報」に記載しています。"]
+
+[[products]]
+name = "Soldoresol"
+color = "#FAFBFC"
+bgcolor = "#24292e"
+icon = "/img/EYe04zoUwAEcK0Q.png"
+link = {alt="Soldoresol", url = "https://soundrabbit.github.io/soldoresol"}
+[products.description]
+heading = "TRPGのオンラインセッションツール"
+paragraph = ["SkywayによるP2P通信で通信を、WebGLで描画を行うサーバーレスなオンセツールです。", "Kaguraフレームワークで作成しました。"]

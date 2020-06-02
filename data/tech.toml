@@ -1,0 +1,17 @@
+[[cards]]
+[[cards.sections]]
+heading = "About this web site"
+paragraph = ["このWebサイトは音の兔（github:SoundRabbit）のポートフォリオサイトです。", "このWebサイトはKaguraフレームワークによって作成されています。"]
+
+[[cards]]
+[[cards.sections]]
+heading = "Programming Languages"
+paragraph = ["C (C99), C++ (C++11, C++14, C++17), C#, Elm, JavaScript, Lua, Ruby, Rust, TypeScript &c."]
+[[cards.sections]]
+heading = "Experience"
+paragraph = ["AWS (RDS, API Gateway, S3, EC2, Route53, Elastic Beanstalk &c.), Nginx, React, Sass, Node.js (Express), WebGL, WebAudioAPI, WebRTC (SkyWay), WebAssembly (wasm-bindgen)"]
+
+[[cards]]
+[[cards.sections]]
+heading = "What is Kagura ?"
+paragraph = ["Kaguraはwasm-bindgenおよびweb-sysを使用することで、Rustで記述可能なWebフロントエンドフレームワークです。", "2019年8月より開発を行っています。2020年6月2日時点での最新バージョンはv0.8.8です。", "Procedural MacrosがStable化し次第、大規模なアップデートを行う予定です。"]
